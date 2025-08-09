@@ -2,6 +2,10 @@
 
 Welcome! Discover which data science role matches your natural work style and preferences.
 
+Thanks to my NTU Data Science & AI instructor Alvin Chua for creating this quiz to identify the roles that are suitable for our profile. This quiz is created based on Holland's RIASEC profiling and customized for data science roles.
+
+Learn more about RIASEC: [Finding the Right Career with the ABCs of RIASEC](https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/finding-the-right-career-with-the-abcs-of-riasec.html)
+
 ## 🚀 **Start Here!**
 
 **👉 Take the Quiz:**

@@ -34,7 +34,6 @@ Each profile includes:
 
 - Role overview
 - Typical job titles
-- Related industry archetypes
 - Key skills and mindset
 - Learning path suggestions
 
